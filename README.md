@@ -2,9 +2,9 @@
 💻 Desarrollador Front-End con 20 años, en formación constante y apasionado por crear experiencias web modernas, responsivas y centradas en el usuario.
 
 🚀 Tecnologías que uso:
-HTML | CSS | Tailwind CSS
+HTML | CSS 
 
-JavaScript | React
+JavaScript 
 
 Git | GitHub
 
